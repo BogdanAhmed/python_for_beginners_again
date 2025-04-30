@@ -1,0 +1,6 @@
+name_team = input()
+print(name_team, '- чемпион!')
+
+
+
+
